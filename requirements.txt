@@ -1,0 +1,13 @@
+# Versions observed in the local tf environment on 2026-09-19.
+# Python 3.10.13. This is not a historical environment lockfile.
+# Native Windows GPU setup also needs matching CUDA/cuDNN libraries.
+tensorflow==2.10.0
+keras==2.10.0
+tensorflow-hub==0.16.1
+numpy==1.26.4
+scipy==1.15.3
+Pillow==11.1.0
+scikit-learn==1.7.1
+pandas==2.3.3
+matplotlib==3.10.9
+seaborn==0.13.2
